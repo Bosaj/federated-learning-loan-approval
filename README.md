@@ -1,5 +1,9 @@
 # federated-learning-loan-approval
 
+<p align="center">
+  <img src="assets/social_preview.jpg" alt="federated-learning-loan-approval Banner" width="100%">
+</p>
+
 ![CI Pipeline](https://github.com/chakorabdellatif/federated-learning-loan-approval/actions/workflows/ci_qa_monitoring.yml/badge.svg)
 [![GitHub Wiki](https://img.shields.io/badge/Documentation-GitHub%20Wiki-blue.svg)](https://github.com/chakorabdellatif/federated-learning-loan-approval/wiki)
 [![Quality Gate](https://img.shields.io/badge/Quality%20Gate-Passed-brightgreen.svg)](docs/MONITORING_AND_QA.md)
