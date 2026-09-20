@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bosaj/federated-learning-loan-approval/blob/main/models%20testing.ipynb)
 # federated-learning-loan-approval
 
 <p align="center">

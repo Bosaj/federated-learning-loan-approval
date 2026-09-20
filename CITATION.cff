@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or research code, please cite it as below."
+authors:
+  - family-names: "EL HADJI"
+    given-names: "Oussama"
+    orcid: ""
+title: "Privacy-Preserving Federated Learning for Loan Approval"
+version: 1.0.0
+date-released: 2026-09-20
+url: "https://github.com/Bosaj/federated-learning-loan-approval"
+abstract: "Decentralized privacy-preserving machine learning system using FedAvg and local node training."
+keywords:
+  - machine-learning
+  - deep-learning
+  - data-science
+  - python
+license: MIT
