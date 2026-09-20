@@ -1,6 +1,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bosaj/federated-learning-loan-approval/blob/main/models%20testing.ipynb)
 # federated-learning-loan-approval
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Bosaj/federated-learning-loan-approval) [![GitHub release](https://img.shields.io/github/v/release/Bosaj/federated-learning-loan-approval?color=blue&label=release)](https://github.com/Bosaj/federated-learning-loan-approval/releases) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
+
 <p align="center">
   <img src="assets/social_preview.jpg" alt="federated-learning-loan-approval Banner" width="100%">
 </p>
