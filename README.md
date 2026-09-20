@@ -549,6 +549,14 @@ Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub
 **Développé avec ❤️ pour démontrer la puissance de l'apprentissage fédéré dans le secteur bancaire**
 
 
+## 👥 Project Engineering Team
+
+This project was collaboratively engineered by:
+- **Oussama EL HADJI** — Federated Aggregation Architecture & Evaluation Lead ([GitHub @Bosaj](https://github.com/Bosaj) • [HF @bosaj](https://huggingface.co/bosaj))
+- **Abdellatif CHAKOR** — Distributed Client Nodes & Non-IID Partitioning Engineer ([GitHub @chakorabdellatif](https://github.com/chakorabdellatif))
+
+---
+
 ## 📊 Monitoring, Controlling, Evaluation & QA
 
 This project includes a standardized 4-Pillar Observability and QA framework:
