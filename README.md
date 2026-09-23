@@ -395,7 +395,7 @@ Accès : [http://localhost:8501](http://localhost:8501)
 
 #### 📈 Comparaison des Modèles
 
-![Comparaison des Métriques ML](placeholder_streamlit_models.png)
+> 📊 *Comparaison des métriques ML disponible en temps réel dans l'interface Streamlit.*
 <img width="2164" height="1366" alt="Screenshot 2025-12-22 171319" src="https://github.com/user-attachments/assets/a8d9f224-4ca3-4e46-ad7c-ed7b9bb727f3" />
 
 **Métriques affichées par banque** :
@@ -409,7 +409,7 @@ Accès : [http://localhost:8501](http://localhost:8501)
 
 #### 🎬 Streaming Kafka en Temps Réel
 
-![Visualisation Kafka Streaming](placeholder_streamlit_kafka.png)
+> ⚡ *Visualisation des flux Kafka Streaming intégrée dans le dashboard.*
 <img width="2192" height="1199" alt="Screenshot 2025-12-22 171410" src="https://github.com/user-attachments/assets/b6f32c42-e526-4799-ba2d-7ee92eecaf08" />
 <img width="2155" height="1372" alt="Screenshot 2025-12-22 171427" src="https://github.com/user-attachments/assets/8781431b-3e64-4734-96a6-18dfc7bb817f" />
 
@@ -429,7 +429,7 @@ Accès : [http://localhost:3000](http://localhost:3000)
 
 #### 📊 Dashboard 1 : Utilisation des Ressources
 
-![Ressources Système](placeholder_grafana_resources.png)
+> 📈 *Métriques d'utilisation des ressources CPU/GPU visualisables sur Grafana.*
 <img width="2123" height="1172" alt="Screenshot 2025-12-22 171502" src="https://github.com/user-attachments/assets/cf9b23e0-c2bb-4622-b05a-c7e772d556a9" />
 
 **Panels disponibles** :
@@ -443,7 +443,7 @@ Accès : [http://localhost:3000](http://localhost:3000)
 
 #### 🌐 Dashboard 2 : Serveur Fédéré
 
-![Serveur Fédéré](placeholder_grafana_server.png)
+> 🖥️ *Statut et latence du serveur fédéré monitorés via Grafana.*
 <img width="2133" height="1298" alt="Screenshot 2025-12-22 173057" src="https://github.com/user-attachments/assets/8530a867-ac6c-4119-a6a1-088cfd80c543" />
 
 **Panels disponibles** :
